@@ -4,6 +4,4 @@ public class EmailReceipt implements ReceiptSender {
     public void sendReceipt() {
         System.out.println("Sending receipt by email...");
     }
-
-    
 }
